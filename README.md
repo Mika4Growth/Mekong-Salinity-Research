@@ -51,6 +51,12 @@ Email: khang.nguyen4growth@hcmut.edu.vn
 ```
 Or describe it in Issues.
 
+## License
+
+The source code in this repository is licensed under the [MIT License](LICENSE).
+
+Datasets and preprint papers may be subject to separate terms of use or copyright restrictions.
+
 ## Acknowledgments
 
 This research is constructed based on the following repositories, datasets, and research frameworks:
