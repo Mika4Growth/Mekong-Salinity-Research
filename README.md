@@ -12,8 +12,8 @@ This project marks the beginning of my research journey in **time-series data an
 Here are some papers on the topic that have been published up to October 2026:
 | Published | Paper | Contribution Type | SCImago Ranking |
 |---|---|---|---|
-| Oct 2026 | *Mitigating Spectral Leakage in MSTL: A Physics-Informed Optimization Framework for Estuarine Water-Level Decomposition* [`[preprint]`](https://doi.org/10.3390/w18101240) | Methodological | 🥈 Q2 |
-| Sep 2026 | *What Makes a Fortnightly Lookback Work? Spectral Triangulation of Tidal Structure in Daily Estuarine Salinity* [`[preprint]`](https://doi.org/10.3390/w18101240) | Theoretical/Empirical | 🥇 Q4 |
+| Oct 2026 | *Mitigating Spectral Leakage in MSTL: A Physics-Informed Optimization Framework for Estuarine Water-Level Decomposition* [`[preprint]`](papers/PI-STOF-Estuarine-MSTL/preprint/PI-STOF_Preprint.pdf) | Methodological | 🥈 Q2 |
+| Sep 2026 | *What Makes a Fortnightly Lookback Work? Spectral Triangulation of Tidal Structure in Daily Estuarine Salinity* [`[preprint]`](papers/Tidal-Spectral-Triangulation/preprint/Spectral-Triangulation_Preprint.pdf) | Theoretical/Empirical | 🥇 Q4 |
 | May 2026 | *Deep Learning-Based Salinity Forecasting in the Vietnamese Mekong Delta: A Cung Hau Estuary Case Study* [`[Water]`](https://doi.org/10.3390/w18101240) | Empirical | 🥇 Q1 |
 | Dec 2025 | *Salinity forecasting in the Vietnamese Mekong Delta: Evaluating the predictive power of machine learning approaches  using multitemporal lag features* [`[Hue University Journal of Science: Natural Science]`](https://jos.hueuni.edu.vn/index.php/hujos-ns/article/view/7876) | Empirical | ⚠️ None |
 | Sep 2025 | *Salinity Intrusion Prediction in the Estuary Using Machine Learning: Vietnam’s Mekong Delta Tested for Global Study* [`[Iranian Journal of Science and Technology, Transactions of Civil Engineering]`](https://doi.org/10.1007/s40996-025-02034-7) | Empirical/Methodological | 🥈 Q2 |
